@@ -1,0 +1,68 @@
+<svg id="MCT_Robot" data-name="MCT Robot" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6ebee0;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #4d859a;
+      }
+    </style>
+  </defs>
+  <rect id="Background" class="cls-1" width="200" height="200"/>
+  <g id="Rocket">
+    <rect class="cls-2" x="82.78" y="146.23" width="32.91" height="16.14" rx="4.9"/>
+    <rect id="Mask" class="cls-1" x="82.78" y="152.5" width="32.91" height="6.58"/>
+    <path id="Fire" class="cls-2" d="M105.82,175.54,99.24,192l-6.79-16.46-6.38,3.29c0-.71.58-8.05,6.59-11.52a14,14,0,0,1,13.16,0c6,3.47,6.54,10.81,6.58,11.52Z" transform="translate(0 0)"/>
+  </g>
+  <g id="Body">
+    <rect id="Neck" class="cls-2" x="94.3" y="93.26" width="9.87" height="3.29"/>
+    <rect id="Under_body_part" data-name="Under body part" class="cls-2" x="69.62" y="126.17" width="59.25" height="29.62" rx="3.34"/>
+    <g>
+      <path class="cls-2" d="M113.17,96.55H85.31a15.74,15.74,0,0,0-15.69,15.69V140.1a15.74,15.74,0,0,0,15.69,15.69h27.86a15.74,15.74,0,0,0,15.69-15.69V112.24A15.74,15.74,0,0,0,113.17,96.55Zm-7.35,39.5-1.64-11.52-3.3,11.55H97.73L94.3,124.53l-1.64,11.52-6.62,0,3.39-19.78H96l3.29,9.87,3.29-9.87h6.58l3.29,19.78Z" transform="translate(0 0)"/>
+      <polygon class="cls-1" points="102.53 116.3 99.24 126.17 95.95 116.3 89.44 116.3 86.04 136.08 92.66 136.04 94.3 124.53 97.73 136.08 100.89 136.08 104.18 124.53 105.82 136.04 112.41 136.08 109.11 116.3 102.53 116.3"/>
+    </g>
+  </g>
+  <g id="Head">
+    <g id="Left_ear" data-name="Left ear">
+      <circle id="Ear" class="cls-2" cx="53.16" cy="60.34" r="6.58"/>
+      <rect id="Mask-2" data-name="Mask" class="cls-1" x="53.16" y="53.76" width="6.58" height="13.17"/>
+    </g>
+    <g id="Right_ear" data-name="Right ear">
+      <circle id="Ear-2" data-name="Ear" class="cls-2" cx="145.32" cy="60.34" r="6.58"/>
+      <rect id="Mask-3" data-name="Mask" class="cls-1" x="138.74" y="53.76" width="6.58" height="13.17" transform="translate(284.06 120.68) rotate(180)"/>
+    </g>
+    <rect id="Head-2" data-name="Head" class="cls-2" x="56.45" y="34.01" width="85.58" height="52.66" rx="3.62"/>
+    <g id="Teeth">
+      <rect id="First_tooth" data-name="First tooth" class="cls-1" x="84.43" y="73.51" width="3.29" height="3.29"/>
+      <rect id="Fifth_tooth" data-name="Fifth tooth" class="cls-1" x="110.76" y="73.51" width="3.29" height="3.29"/>
+      <rect id="Fourth_tooth" data-name="Fourth tooth" class="cls-1" x="104.18" y="73.51" width="3.29" height="3.29"/>
+      <rect id="Third_tooth" data-name="Third tooth" class="cls-1" x="97.59" y="73.51" width="3.29" height="3.29"/>
+      <rect id="Second_tooth" data-name="Second tooth" class="cls-1" x="91.01" y="73.51" width="3.29" height="3.29"/>
+    </g>
+    <g id="Eye">
+      <rect id="Eye_s" data-name="Eye&apos;s" class="cls-1" x="66.32" y="43.88" width="65.83" height="19.75" rx="6"/>
+      <polygon id="Right_shine" data-name="Right shine" class="cls-2" points="122.28 43.88 115.7 63.63 107.47 63.63 114.05 43.88 122.28 43.88"/>
+      <polygon id="Left_shine" data-name="Left shine" class="cls-2" points="110.76 43.88 104.18 63.63 100.89 63.63 107.47 43.88 110.76 43.88"/>
+    </g>
+    <g id="Upper_head_part" data-name="Upper head part">
+      <g id="Left_antenna" data-name="Left antenna">
+        <circle id="Upper_part" data-name="Upper part" class="cls-2" cx="76.2" cy="17.55" r="6.58"/>
+        <rect id="Under_part" data-name="Under part" class="cls-2" x="74.55" y="20.84" width="3.29" height="9.87"/>
+      </g>
+      <g id="Right_antenna" data-name="Right antenna">
+        <circle id="Upper_part-2" data-name="Upper part" class="cls-2" cx="122.28" cy="17.55" r="6.58"/>
+        <rect id="under_part-2" data-name="under part" class="cls-2" x="120.63" y="20.84" width="3.29" height="9.87"/>
+      </g>
+      <path id="Electricity" class="cls-2" d="M109.11,15.91a1.65,1.65,0,1,1,0,3.29h-3.29l-1.64,4.94a1.73,1.73,0,0,1-3.3,0L96,14.26,94.3,17.55c-.2.47-.74,1.61-1.55,1.65H89.36a1.65,1.65,0,0,1,0-3.29H91L94.3,11a1.88,1.88,0,0,1,3.29,0l4.94,9.87L104,17.52c.53-1.29.94-1.6,1.22-1.61h3.89Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+  <path id="Left_arm" data-name="Left arm" class="cls-2" d="M70.55,102a85.23,85.23,0,0,0-32.91,28,12,12,0,0,0-11.52,9.87,2.49,2.49,0,0,0,1.5,3.22,2.2,2.2,0,0,0,2-1c.85-3.39,2.92-6,5.47-6.72a7.58,7.58,0,0,1,2.94-.14A6.69,6.69,0,0,1,41.49,137c1.9,1.91,2.13,5.63.28,9a2.41,2.41,0,1,0,4.2,2.11c.48-1.2,2.56-6.75-.14-12.26a13.64,13.64,0,0,0-3.25-4.24,68.54,68.54,0,0,1,23-21.39c.46-1,1-2.15,1.64-3.29A39.16,39.16,0,0,1,70.55,102Z" transform="translate(0 0)"/>
+  <path id="Right_arm" data-name="Right arm" class="cls-2" d="M129.32,101.86a52.77,52.77,0,0,0,32.92-1.64,9.93,9.93,0,0,1-.13-4.94,10.72,10.72,0,0,1,5.06-6.58,2.47,2.47,0,0,1,3.61.17,2.44,2.44,0,0,1-.32,3.12,6.53,6.53,0,0,0-4.3,8.8,7,7,0,0,0,10.76,2.79,2.12,2.12,0,0,1,2.42,0,2.2,2.2,0,0,1-.05,3.2A13.94,13.94,0,0,1,169.05,108a13,13,0,0,1-5.17-2.89,69,69,0,0,1-31.29,2.58,26.2,26.2,0,0,0-1.2-2.58A28.61,28.61,0,0,0,129.32,101.86Z" transform="translate(0 0)"/>
+  <ellipse class="cls-3" cx="99" cy="196" rx="33" ry="2"/>
+</svg>
